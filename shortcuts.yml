@@ -49,5 +49,5 @@ sp 1:
   url: https://beta.stockperformer.com/stats/dashboard#asset/A/<query>
   title: Stock Performer File Details Adobe
 fun 1:
-url: https://funxd.site/?s=<query>
-title: Funxd
+  url: https://funxd.site/?s=<query>
+  title: Funxd
