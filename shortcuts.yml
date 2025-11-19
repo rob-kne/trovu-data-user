@@ -4,7 +4,7 @@ wen 1:
   tags:
   - wen
 eis 1:
-  url: http://www.eis-machen.de/?s=<query>
+  url: https://www.eis-machen.de/?s=<query>
   title: Eis machen
   tags:
   - eis
@@ -13,7 +13,7 @@ eis 1:
   - arguments: vanilleeis
     description: Search for Vanilleeis
 afp 1:
-  url: http://www.alltageinesfotoproduzenten.de/?s=<query>&submit.x=0&submit.y=0
+  url: https://www.alltageinesfotoproduzenten.de/?s=<query>&submit.x=0&submit.y=0
   title: Alltag eines Fotoproduzenten
   tags:
   - afp
@@ -23,7 +23,7 @@ afp 1:
   - arguments: Ringblitz
     description: Search the Blog "Alltageinesfotoproduzenten.de" for Ringblitz
 a 1:
-  url: http://www.amazon.de/s?ie=UTF8&keywords=<query>
+  url: https://www.amazon.de/s?ie=UTF8&keywords=<query>
   title: Amazon Deutschland
   tags:
   - a
