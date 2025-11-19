@@ -40,10 +40,10 @@ gft 1:
   url: https://gamesageddon.com/fotolia?query=<argument_name>&fOr=nb_downloads
   title: GamesAgeddon
 safp 1:
-  url: http://shop.alltageinesfotoproduzenten.de/?search_parameters%5Bwords%5D=<query>
+  url: https://shop.alltageinesfotoproduzenten.de/?search_parameters%5Bwords%5D=<query>
   title: Shop / Alltag eines Fotoproduzenten
 mafp 1:
-  url: http://shop.alltageinesfotoproduzenten.de/media/<media-id>
+  url: https://shop.alltageinesfotoproduzenten.de/media/<media-id>
   title: 'Shop / Alltag eines Fotoproduzenten: Media'
 as 1:
   url: https://stock.adobe.com/search?k=<query>
