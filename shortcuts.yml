@@ -1,6 +1,3 @@
-ft 1:
-  url: http://de.fotolia.com/search?k=<query>&search.x=0&search.y=0&filters[content_type%3Aphoto]=1&filters[content_type%3Aillustration]=1&filters[content_type%3Avector]=1&filters[content_type%3Avideo]=1&order=relevance
-  title: ft
 wen 1:
   url: https://en.wikipedia.org/wiki/<query>
   title: WIkipedia english
